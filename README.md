@@ -1,2 +1,2 @@
-# chati-re
+# chatière automatisé
 CHATIERE AUTOMATISER COURS ARDUINO
