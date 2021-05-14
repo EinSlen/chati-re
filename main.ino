@@ -1,5 +1,5 @@
-#include 
-#include 
+#include <lcd.h>
+#include "LiquidCrystal.h"
 #include "RTClib.h"
 
 RTC_DS1307 RTC; //Classe RTC_DS1307
